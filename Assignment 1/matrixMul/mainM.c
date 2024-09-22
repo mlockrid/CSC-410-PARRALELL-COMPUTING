@@ -25,7 +25,7 @@ int main() {
 
     // Display the resulting matrix C
     printf("Resulting Matrix C:\n");
-    displayMatrix(C);
+    //displayMatrix(C);
 
     return 0;
 }
