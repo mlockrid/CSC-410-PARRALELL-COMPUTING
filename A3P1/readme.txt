@@ -1,0 +1,1 @@
+To compile use gcc sum_T.c -lpthread, and gcc martixT.c -lpthread
