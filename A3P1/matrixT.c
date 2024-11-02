@@ -64,12 +64,12 @@ int main() {
     printf("Matrix multiplication complete!\n");
 
     // Display the resulting matrix C
-    for (int i = 0; i < N; i++) {
-        for (int j = 0; j < N; j++) {
-            printf("%d ", C[i][j]);
-        }
-        printf("\n");
-    }
+    //for (int i = 0; i < N; i++) {
+    //    for (int j = 0; j < N; j++) {
+    //        printf("%d ", C[i][j]);
+     //   }
+    //    printf("\n");
+    //}
 
     // Free dynamically allocated memory
     for (int i = 0; i < N; ++i) {
